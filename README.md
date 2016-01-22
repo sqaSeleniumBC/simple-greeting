@@ -1,2 +1,8 @@
 # simple-greeting
-Application which simply greets the user.
+### Application which simply greets the user.
+
+* SQA
+* Quality
+* Test
+
+[Jean-francois Nepton](http://sqasolution.com)
